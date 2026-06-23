@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+                cultura do país
+        </title>
+        <meta charset="utf-8">
+    </head>
+
+    <body>
+        <header>
+
+            <div
+            style="
+            widty: 80%;
+            align-self: center;
+            background-color: black;
+             ">
+             <table>
+                <tr>
+                    <td>
+
+                        <img href="Cultura do país.jpg">
+
+                    </td>
+                    <td>
+                        <h1>
+                            Cultura do país
+                        </h1>
+                    </td>
+                </tr>
+            </table>
+
+            </div>
+
+        </header>
+
+        <main>
+
+        </main>
+
+        <footer>
+
+        </footer>
+    </body>
+</html>
